@@ -1,0 +1,21 @@
+h1 {
+    color: midnightblue;
+    text-align: center;
+}
+
+h2 {
+    color: cadetblue;
+    text-align: center;
+}
+
+#subheading {
+    color: lightblue;
+}
+
+.strawb {
+    color: lightcoral;
+}
+
+span {
+    text-decoration: underline;
+}
